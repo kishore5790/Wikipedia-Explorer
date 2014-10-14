@@ -1,0 +1,24 @@
+.searchResult {
+	font-size: 16px;
+}
+.searchResult .searchLink {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.node { cursor: pointer; }
+
+.node circle {
+  fill: #fff;
+  stroke-width: 3px;
+}
+
+.node text { font: 12px sans-serif; }
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+#treePage { display: none; }
